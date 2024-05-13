@@ -1,4 +1,4 @@
-// Define a phone book object to store contacts
+// object to store contacts
 const phoneBook = {
     contacts: [],
     addContact: function(name, phoneNumber, email) {
